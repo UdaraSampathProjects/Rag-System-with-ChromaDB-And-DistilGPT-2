@@ -1,0 +1,2 @@
+Dolly is an open-source language model created by Databricks.
+Chroma is a vector database used for semantic search.
